@@ -82,9 +82,26 @@ The models are evaluated using:
 
 Class weights are computed and applied to the loss function to handle any class imbalances in the dataset.
 
-## Contributors
 
-1. [Sajeev Senthil](https://github.com/SajeevSenthil/)
-2. [Jerome Richard](https://github.com/FightKlub)
-3. [Joseph Binu](https://github.com/Josephbinu05)
-4. [Hari Vaarthan T D](https://github.com/hari23228/hari23228)
+## **Contributors**
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/SajeevSenthil?s=300" width="100" alt="Sajeev Senthil" /><br/>
+      <a href="https://github.com/SajeevSenthil"><b>Sajeev Senthil</b></a>
+    </td>
+        <td align="center">
+      <img src="https://avatars.githubusercontent.com/hari23228?s=300" width="100" alt="Hari Varthan" /><br/>
+      <a href="https://github.com/hari23228"><b>Hari Varthan</b></a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/FightKlub?s=300" width="100" alt="DJR" /><br/>
+      <a href="https://github.com/FightKlub"><b>Dennis Jerome Richard </b></a>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/Jopan?s=300" width="100" alt="Jopan" /><br/>
+      <a href="https://github.com/Jopan"><b>Joseph Binu George</b></a>
+    </td>
+  </tr>
+</table>
