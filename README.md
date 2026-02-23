@@ -81,3 +81,10 @@ The models are evaluated using:
 - Confusion Matrix
 
 Class weights are computed and applied to the loss function to handle any class imbalances in the dataset.
+
+## Contributors
+
+1. [Sajeev Senthil](https://github.com/SajeevSenthil/)
+2. [Jerome Richard](https://github.com/FightKlub)
+3. [Joseph Binu](https://github.com/Josephbinu05)
+4. [Hari Vaarthan T D](https://github.com/hari23228/hari23228)
